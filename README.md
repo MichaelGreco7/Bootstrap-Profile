@@ -1,3 +1,5 @@
 ## Profile Project With Bootstrap
 
-[live demo](https://michaelgreco7.github.io/Bootstrap-Profile/)
+### Please click link to view.
+
+[Live Demo](https://michaelgreco7.github.io/Bootstrap-Profile/)
